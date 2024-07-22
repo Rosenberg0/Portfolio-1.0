@@ -1,0 +1,13 @@
+.container__navegacao{
+    padding: 0 2em 2em 2em;
+    display: flex;
+     gap: 1em;
+}
+.navegecao__link{
+    text-decoration: none;
+    position: static;
+    font-family: var(--font-principal);
+    font-size: var(--font-subtitulo-tamanho);
+    font-weight: var(--font-subtitulo-peso);
+    color: var(--color-texto-paragrafo);
+}
